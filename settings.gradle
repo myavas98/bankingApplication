@@ -1,0 +1,4 @@
+rootProject.name = 'simple-banking-parent' 
+include 'account-service'
+include 'transaction-service'
+include 'notification-service'
